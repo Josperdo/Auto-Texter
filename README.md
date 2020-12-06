@@ -1,5 +1,5 @@
 # text-messages
-Send your automated text messages. I plan on expanding this in some form to provide automated daily digests every morning pertaining to various interests based on the user (stocks, economics, news, sports stats, etc.) Also wouldn't be limited to apple devices using Imsg
+Send your automated text messages. I plan on expanding this in some form.
 
 Note: this script will only work if you have a Mac
 
