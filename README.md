@@ -1,5 +1,5 @@
-# text-messages
-Send your automated text messages. I plan on expanding this in some form.
+# Auto Texter
+A lightweight automation script written in Python and AppleScript that sends messages through iMessage on macOS—designed for quick, repetitive dispatch in a local environment.
 
 Note: this script will only work if you have a Mac
 
